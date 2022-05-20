@@ -2,3 +2,4 @@
 
 * Scorpion
 * Galactus
+* Magneto
